@@ -4,7 +4,7 @@
 
 ## Control absolutely everything in the app using your voice
 
-• Developed an accessibility-first news app with React for hands-free navigation, empowering differently-abled users. \
+• Developed an accessibility-first news app with React for hands-free navigation, empowering differently-abled users.\
 
 • Integrated AlanAI for real-time voice interactions, allowing users to listen to headlines and open articles without touch.\
 
