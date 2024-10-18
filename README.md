@@ -4,8 +4,8 @@
 
 ## Control absolutely everything in the app using your voice
 
-• Developed an accessibility-first news app with React for hands-free navigation, empowering differently-abled users.
-• Integrated AlanAI for real-time voice interactions, allowing users to listen to headlines and open articles without touch.
+• Developed an accessibility-first news app with React for hands-free navigation, empowering differently-abled users. \
+• Integrated AlanAI for real-time voice interactions, allowing users to listen to headlines and open articles without touch.\
 • Used MaterialUI for a responsive user interface and deployed the app on Vercel.
 
 <img width="1467" alt="Screenshot 2024-10-18 at 6 29 00 PM" src="https://github.com/user-attachments/assets/735f652c-6370-4b63-8766-9c0ac50523d3">
